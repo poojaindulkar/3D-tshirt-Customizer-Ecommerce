@@ -39,6 +39,7 @@ const CustomHome = () => {
                         </motion.div>
                     </motion.section>
                 )}
+                
             </AnimatePresence>
 
             
